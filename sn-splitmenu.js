@@ -148,4 +148,3 @@
     initializeSplitMenu();
   });
 })();
-</script>
